@@ -1,0 +1,20 @@
+.prevbill {
+    display: flex;
+    flex-direction: row;
+}
+
+table tr th {
+    border: 2px solid black;
+    padding: 2px;
+}
+
+table {
+    width: 100%;
+}
+
+table tr th button {
+    background-color: violet;
+    border-radius: 10px;
+    border: 2px solid blueviolet;
+    cursor: pointer;
+}
